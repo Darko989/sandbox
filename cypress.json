@@ -1,0 +1,17 @@
+{
+
+
+  "baseUrl": "https://qa-sandbox.apps.htec.rs/",
+  "viewportWidth": 1200,
+  "viewportHeight": 880,
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "env": {
+    "serverUrl": "https://qa-sandbox.apps.htec.rs/",
+    "email": "darko1989@outlook.com",
+    "password": "linux#89",
+    "publicApiEnv": "https://qa-sandbox.apps.htec.rs/"
+
+  }
+
+}
